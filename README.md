@@ -35,5 +35,6 @@ Uses historical exchange rate data to make accurate forecasts.
 Implements time series analysis and deep learning models.
 Supports multi-currency exchange rate prediction.
 Provides visualizations for better trend analysis.
+
 📜 Conclusion
 This project demonstrates that SARIMA and deep learning models (LSTM, RNN) can provide reliable exchange rate forecasts. These predictions can aid financial institutions, traders, and policymakers in making data-driven decisions, reducing risks associated with currency fluctuations.
